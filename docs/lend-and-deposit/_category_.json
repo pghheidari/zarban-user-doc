@@ -1,0 +1,9 @@
+{
+  "label": "lend and deposit",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "بازار وام و سپرده زربان",
+    "description": "5 minutes to learn the most important Docusaurus concepts."
+  }
+}
